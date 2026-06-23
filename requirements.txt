@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+bcrypt
+PyJWT
+scikit-learn
+pandas
+pydantic
+openpyxl
